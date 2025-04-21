@@ -1,7 +1,7 @@
 # Wi-Fi Sniffer-Driven Fan Controller with ESP32
 <p align="center">
 <img src="setup.jpeg" width="400">
-<img src="white_led.jpg" width="400">  
+<img src="white_led.jpg" width="350">  
 </p>
 
 
