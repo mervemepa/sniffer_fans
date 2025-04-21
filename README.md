@@ -1,5 +1,8 @@
 # Wi-Fi Sniffer-Driven Fan Controller with ESP32
+<p align="center">
 <img src="setup.jpeg" width="400">
+<img src="white_led.jpg" width="400">  
+</p>
 
 
 This project uses an ESP32 microcontroller to capture Wi-Fi traffic and trigger a fan based on detected network activity.
